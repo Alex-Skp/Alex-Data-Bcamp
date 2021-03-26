@@ -7,10 +7,11 @@ Week 1:
   
 
 ## Week 1:  
-&ensp;D1-jupyter-lab  
-&ensp;D2-lab-customer-analysis-r1  
-&ensp;D3-lab-customer-analysis-r2  
-&ensp;D4-lab-customer-analysis-r3
+* D1-jupyter-lab  
+* D2-lab-customer-analysis-r1  
+* D3-lab-customer-analysis-r2  
+* D4-lab-customer-analysis-r3
+* D5-lab-customer-analysis-r4
   
 ## Week 2:  
 
