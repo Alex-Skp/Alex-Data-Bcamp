@@ -1,4 +1,5 @@
 ![Work in progress](https://miro.medium.com/max/2048/1*mwXHpdt6CTQHxH78dwc6NA.jpeg)
+
 ![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
 
 # Lab | MySQL
