@@ -1,3 +1,6 @@
+![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
+
+
 # Lab | Tableau Guided Analysis with Stories
 
 Build a story compiled of individual captioned storypoints in Tableau and publish the story only to your tableau public account, in order to submit the url via the Student Portal. 
