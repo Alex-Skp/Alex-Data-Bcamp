@@ -1,3 +1,7 @@
+# You can find the Viz in Tableau Public following this link:
+
+https://public.tableau.com/profile/alex2690#!/vizhome/Europeevolutionofcrops/Europeevolutionofcrops
+
 # Lab | Tableau Guided Analysis with Stories
 
 Build a story compiled of individual captioned storypoints in Tableau and publish the story only to your tableau public account, in order to submit the url via the Student Portal. 

@@ -1,3 +1,7 @@
+# You can find the Viz in Tableau Public following this link:
+
+https://public.tableau.com/profile/alex2690#!/vizhome/LabTableau-DynamicFiltering_16172989592820/Challenge4
+
 # Lab | Tableau -Dynamic Filtering
 
 Build the following charts making use of the filter types and edit filter options in tableau and publish them to your tableau public account (or upload the workbook to your github) in order to submit the url via the Student Portal

@@ -1,7 +1,6 @@
 # You can find the Viz in Tableau Public following this link:
 
-https://public.tableau.com/profile/alex2690#!/vizhome/Europeevolutionofcrops/Europeevolutionofcrops
-
+https://public.tableau.com/profile/alex2690#!/vizhome/Challenge1_1Tableau/Challenge2_4
 
 # Lab | Tableau Charts - Simply answering questions with charts
 
