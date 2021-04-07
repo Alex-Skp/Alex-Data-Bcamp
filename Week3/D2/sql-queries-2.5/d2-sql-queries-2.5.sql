@@ -51,7 +51,9 @@ SELECT count(*) as rentals
 	FROM sakila.rental r
     #I need to look more into making this date a flexible value, depending pon max(date) but could not figure this in time
 	HAVING dates > date'2006-01-14'
-	) as last_month
+	) as last_month;
+    
+    
     
     
 
