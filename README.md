@@ -15,7 +15,7 @@ Projects will be found in separate repositories under this GitHub account.
   
 ## Week 2:  
 * D1-here you will find the URL for the week 1 project  
-* D2-Optional MatPlotLib lab (In progress)
+* D2-No labs 
 * D3-Tableau Charts - Simply answering questions 
 * D4-Lab-Tableau-Dynamic Filtering and Guided analysis with stories
 * D5-lab-predicting-claim-amount-with-ML
@@ -24,11 +24,11 @@ Projects will be found in separate repositories under this GitHub account.
 * D1-SQL Lab Intro and Basics  
 * D2-SQL Labs for Queries and Optional lab  
 * D3-SQL Labs for Queries  
-* D4-  
-* D5-  
+* D4-SQL Lab join, self join, cross join
+* D5-SQL to python, SQL subqueries
 
 ## Week 4:  
-* D1-  
+* D1-No labs  
 * D2-  
 * D3-  
 * D4-  
