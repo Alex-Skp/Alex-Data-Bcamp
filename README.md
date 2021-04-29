@@ -35,7 +35,7 @@ Projects will be found in separate repositories under this GitHub account.
 * [D5-lab random variable distributions and optional KNN labs](https://github.com/Alex-Skp/Alex-Data-Bootcamp-Deliverables/tree/main/Week4/D5)
 
 ## Week 5:  
- [Mid Bootcamp Project: ] 
+ [Mid Bootcamp Project] 
 
 ## Week 6:  
 * D1-  
