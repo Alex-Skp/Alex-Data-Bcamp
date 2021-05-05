@@ -35,21 +35,21 @@ Projects will be found in separate repositories under this GitHub account.
 * [D5-lab random variable distributions and optional KNN labs](https://github.com/Alex-Skp/Alex-Data-Bootcamp-Deliverables/tree/main/Week4/D5)
 
 ## Week 5:  
- [Mid Bootcamp Project] 
+ [Mid Bootcamp Project](https://github.com/Alex-Skp/Case-Study-Regression) 
 
 ## Week 6:  
-* D1-  
-* D2-  
-* D3-  
-* D4-  
-* D5-  
+* D1- RFM_lab  
+* D2- RFM_lab 
+* D3- RFM_lab 
+* D4- Lab | Inferential statistics - T-test & P-value 
+* D5- Lab | Dicts, Sets, and Tuples 
 
 ## Week 7:  
-* D1-  
-* D2-  
-* D3-  
-* D4-  
-* D5-  
+* D1- optional-webscraping_lab  
+* D2- project-music-recommender 
+* D3- project-music-recommender 
+* D4- project-music-recommender 
+* D5- project-music-recommender 
 
 ## Week 8:  
 * D1-  
