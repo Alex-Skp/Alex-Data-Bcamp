@@ -52,18 +52,8 @@ Projects will be found in separate repositories under this GitHub account.
 * [D2-Lab computer vision]( https://github.com/Alex-Skp/Alex-Data-Bootcamp-Deliverables/tree/main/Week8/D2/Computer%20Vision%20Lab) 
 * [D3-Lab decision trees](https://github.com/Alex-Skp/Alex-Data-Bootcamp-Deliverables/tree/main/Week8/D3/cookies-lab-decision-trees)  
 * [D4-Lab sql review](https://github.com/Alex-Skp/Alex-Data-Bootcamp-Deliverables/tree/main/Week8/D4/sql-lab)  
-* D5-  
+* D5-No labs, final project outline  
 
 ## Week 9:  
-* D1-  
-* D2-  
-* D3-  
-* D4-  
-* D5-  
+* [Final bootcamp project: Food101.com recipe analysis and popularity prediction](https://github.com/Alex-Skp/Recipe-Popularity-Predictor)
 
-## Week 10:   
-* D1-  
-* D2-  
-* D3-  
-* D4-  
-* D5-  
