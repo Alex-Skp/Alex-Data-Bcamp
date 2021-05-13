@@ -51,7 +51,7 @@ Projects will be found in separate repositories under this GitHub account.
 * [D1-Natural language processing lab](https://github.com/Alex-Skp/Alex-Data-Bootcamp-Deliverables/tree/main/Week8/D1/NLP%20lab)  
 * [D2-Lab computer vision]( https://github.com/Alex-Skp/Alex-Data-Bootcamp-Deliverables/tree/main/Week8/D2/Computer%20Vision%20Lab) 
 * [D3-Lab decision trees](https://github.com/Alex-Skp/Alex-Data-Bootcamp-Deliverables/tree/main/Week8/D3/cookies-lab-decision-trees)  
-* D4-  
+* [D4-Lab sql review](https://github.com/Alex-Skp/Alex-Data-Bootcamp-Deliverables/tree/main/Week8/D4/sql-lab)  
 * D5-  
 
 ## Week 9:  
