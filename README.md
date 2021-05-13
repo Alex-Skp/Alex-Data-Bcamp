@@ -38,16 +38,14 @@ Projects will be found in separate repositories under this GitHub account.
  * [Mid Bootcamp Project](https://github.com/Alex-Skp/Case-Study-Regression) 
 
 ## Week 6:  
-* D1,2,3- [RFM_lab](https://github.com/Alex-Skp/Alex-Data-Bootcamp-Deliverables/blob/main/Week6/D1/RFM%20lab/RFM_lab.md) [Check the dashboard](https://public.tableau.com/profile/alex2690#!/vizhome/RFManalysisbasic/Dashboard2?publish=yes)
-* D4- Lab | Inferential statistics - T-test & P-value 
-* D5- Lab | Dicts, Sets, and Tuples 
+* [D1,2-RFM_lab](https://github.com/Alex-Skp/Alex-Data-Bootcamp-Deliverables/blob/main/Week6/D1/RFM%20lab/RFM_lab.md) [Check the dashboard](https://public.tableau.com/profile/alex2690#!/vizhome/RFManalysisbasic/Dashboard2?publish=yes)
+* [D3-facebook movement data quick project](https://github.com/Alex-Skp/Alex-Data-Bootcamp-Deliverables/tree/main/Week6/D3/Facebook%20movement%20data)
+* [D4-lab Inferential statistics - T-test & P-value](https://github.com/Alex-Skp/Alex-Data-Bootcamp-Deliverables/tree/main/Week6/D4)
+* [D5-lab Dicts, Sets, and Tuples](https://github.com/Alex-Skp/Alex-Data-Bootcamp-Deliverables/tree/main/Week6/D5/02_lab-tuple-set-dict) 
 
 ## Week 7:  
-* D1- optional-webscraping_lab  
-* D2- project-music-recommender 
-* D3- project-music-recommender 
-* D4- project-music-recommender 
-* D5- project-music-recommender 
+* [D1-optional-webscraping_lab](https://github.com/Alex-Skp/Alex-Data-Bootcamp-Deliverables/tree/main/Week7/D1)  
+* [D2->5 Building a sond reocmmender with Spotify API](https://github.com/Alex-Skp/Music-recommender-with-Spotipy)
 
 ## Week 8:  
 * D1-  
