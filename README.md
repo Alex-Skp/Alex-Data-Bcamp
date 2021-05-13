@@ -38,9 +38,7 @@ Projects will be found in separate repositories under this GitHub account.
  * [Mid Bootcamp Project](https://github.com/Alex-Skp/Case-Study-Regression) 
 
 ## Week 6:  
-* D1- RFM_lab  
-* D2- RFM_lab 
-* D3- RFM_lab 
+* D1,2,3- [RFM_lab](https://github.com/Alex-Skp/Alex-Data-Bootcamp-Deliverables/blob/main/Week6/D1/RFM%20lab/RFM_lab.md) [Check the dashboard](https://public.tableau.com/profile/alex2690#!/vizhome/RFManalysisbasic/Dashboard2?publish=yes)
 * D4- Lab | Inferential statistics - T-test & P-value 
 * D5- Lab | Dicts, Sets, and Tuples 
 
